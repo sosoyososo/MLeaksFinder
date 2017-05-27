@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C038FE59010BD606CF9229079A2284E68103CA20",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C038FE59010BD606CF9229079A2284E68103CA20" : 9223372036854775807,
+    "76E71525A06992D1BB2A19EC79B865D050374163" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BE98B883-C975-4A47-973C-7F9284DED89B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C038FE59010BD606CF9229079A2284E68103CA20" : "MLeaksFinder\/",
+    "76E71525A06992D1BB2A19EC79B865D050374163" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MLeaksFinder",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MLeaksFinder.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/gitlab.yanky.cn\/sosoyososo\/AimToUniversity",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "76E71525A06992D1BB2A19EC79B865D050374163"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sosoyososo\/MLeaksFinder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C038FE59010BD606CF9229079A2284E68103CA20"
+    }
+  ]
+}
